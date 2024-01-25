@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Đường đen",
+    "description": "amateur"
+  },
+  "data": [
+    {
+      "name": "vnexpress",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vnexpress/plugin.zip",
+      "version": 1,
+      "source": "https://vnexpress.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vnexpress/icon.png",
+      "description": "Đọc vnexpress",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "novel"
+    }
+  ]
+}
