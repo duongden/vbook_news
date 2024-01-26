@@ -8,7 +8,7 @@
       "name": "vnexpress",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vnexpress/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://vnexpress.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vnexpress/icon.png",
       "description": "Đọc vnexpress",

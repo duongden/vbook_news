@@ -2,9 +2,9 @@
   "metadata": {
     "name": "vnexpress",
     "author": "Đường đen",
-    "version": 1,
+    "version": 2,
     "source": "https://vnexpress.net",
-    "regexp": "vnexpress.net/(.*?)[.]html",
+    "regexp": "https://vnexpress.net/(.*?)[.]html",
     "description": "Đọc vnexpress",
     "locale": "vi_VN",
     "language": "javascript",
