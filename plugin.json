@@ -15,6 +15,18 @@
       "locale": "vi_VN",
       "language": "javascript",
       "type": "novel"
+    },
+    {
+      "name": "soha",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/soha/plugin.zip",
+      "version": 1,
+      "source": "https://m.soha.vn",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/soha/icon.png",
+      "description": "Đọc soha",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "novel"
     }
   ]
 }
