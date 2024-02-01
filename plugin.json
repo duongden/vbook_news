@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "vietnamnet",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vietnamnet/plugin.zip",
+      "version": 1,
+      "source": "https://vietnamnet.vn",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vietnamnet/icon.png",
+      "description": "Đọc vietnamnet",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "novel"
+    },
+    {
       "name": "Tuổi Trẻ",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/tuoitre/plugin.zip",
