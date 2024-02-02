@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "Người Lao Động",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/nguoilaodong/plugin.zip",
+      "version": 1,
+      "source": "https://nld.com.vn",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/nguoilaodong/icon.png",
+      "description": "Đọc Người Lao Động",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "novel"
+    },
+    {
       "name": "vietnamnet",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vietnamnet/plugin.zip",
