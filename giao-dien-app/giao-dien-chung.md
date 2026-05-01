@@ -1,3 +1,7 @@
+---
+description: Video giới thiệu app
+---
+
 # Giao diện chung
 
 {% tabs %}
@@ -6,6 +10,6 @@
 {% endtab %}
 
 {% tab title="Bản beta" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2FCpUlSYgPCnx7oIV2feNq%2Fgiao_dien_app_beta.mp4?alt=media&token=21a0dc51-76c1-4396-bff1-64cd1c59abec" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2F0qSxteJvuxaWimtcDL8U%2F0501.mp4?alt=media&token=36494b04-c614-4c5d-bb31-dbbbd83e19e0" %}
 {% endtab %}
 {% endtabs %}
