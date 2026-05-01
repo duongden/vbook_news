@@ -46,3 +46,7 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 Video hướng dẫn với **app NetCapture**
 
 {% embed url="https://www.youtube.com/watch?v=pJq45nT8fV8" %}
+
+4. Các nguồn Tấn Giang đang hoạt động
+
+<figure><img src="../.gitbook/assets/2026-05-01_164612.png" alt=""><figcaption></figcaption></figure>
