@@ -8,7 +8,42 @@
 
 Tìm kiếm các danh sách nguồn và các ext tại đây:
 
-<a href="https://xn--ngc-bmz.vn/i/vbook/docs/#/phan-mo-rong" class="button primary">Danh sách nguồn</a>
+<a href="https://www.vbookext.me/customizer" class="button primary">Danh sách nguồn tổng hợp</a>
+
+### <mark style="color:$primary;">HƯỚNG DẪN TÙY CHỈNH NGUỒN EXTENSION VBOOK</mark>
+
+#### 1. Cách tạo kệ ext tùy chỉnh
+
+*  Chọn ext ( nhấn vào nút dấu cộng ở ext) : có 2 cách là thêm ở mục phần mở rộng hoặc thêm ở nguồn mở rộng
+*  Nhập thông tin để lưu kệ sách
+*  Nhấn vào link hiện trên màn hình để copy
+*  Thêm link đó vào vbook
+
+#### **2. Cách sửa kệ ext**
+
+*  Bắt buộc dùng đúng trình duyệt để tạo kệ&#x20;
+*  Nhấn vào sửa ở kệ
+*  Thêm hoặc xóa các ext sau đó nhấn cập nhật.&#x20;  &#x20;5p sau nó sẽ cập nhật trên vbook.\
+  (nếu muốn nó cập nhật luôn thì ghi <mark style="color:red;">**"?chuoiSoBatKi"**</mark>)
+
+>> Ví dụ:&#x20;
+>
+> Link kệ vừa tạo ra: **https://www.vbookext.me/api/registry/vbook-0cc3c6af.json**> \
+> Nếu muốn nó cập nhật ngay lập tức thì nhập: **https://www.vbookext.me/api/registry/vbook-0cc3c6af.json**<mark style="color:red;">**?123**</mark>**&#x20;vào trong vbook**
+
+#### 3. Cách clone kệ của người khác để sửa
+
+*  Nhấn vào "sử dụng kệ này" -> lúc này sẽ tự chọn sẵn các ext của kệ đó
+*  Thêm hoặc xoá bớt các ext
+*  Nhấn lưu kệ và điền thông tin như tạo kệ mới
+
+
+
+#### <mark style="color:red;">**LƯU Ý:**</mark>
+
+*  Hiện vẫn đang beta/ thử nghiệm nên sẽ có sai sót
+*  Không cần đăng nhập nên sẽ xác thực danh tính qua trình duyệt, phải dùng đúng trình duyệt đó thì mới có thể sửa kệ của mình
+*  Các kệ không được sử dụng sau 37 ngày sẽ bị xoá ( kệ không được copy, không được app gọi link thi được tính là không được sử dụng )
 
 ## Nguồn TTS
 
