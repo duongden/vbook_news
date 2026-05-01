@@ -37,13 +37,17 @@ Tìm kiếm các danh sách nguồn và các ext tại đây:
 *  Thêm hoặc xoá bớt các ext
 *  Nhấn lưu kệ và điền thông tin như tạo kệ mới
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2FxQxt85tn0LaT2GURBtjM%2F0501.mp4?alt=media&token=d0ca7dee-01f2-4fc7-afeb-0aef99f4b874" %}
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2F5QHOqDQU7Jjgtmz107th%2F0501(1).mp4?alt=media&token=c202b90f-7131-47ea-a5c1-2a817d2cd62c" %}
 
 #### <mark style="color:red;">**LƯU Ý:**</mark>
 
 *  Hiện vẫn đang beta/ thử nghiệm nên sẽ có sai sót
 *  Không cần đăng nhập nên sẽ xác thực danh tính qua trình duyệt, phải dùng đúng trình duyệt đó thì mới có thể sửa kệ của mình
 *  Các kệ không được sử dụng sau 37 ngày sẽ bị xoá ( kệ không được copy, không được app gọi link thi được tính là không được sử dụng )
+
+
 
 ## Nguồn TTS
 
