@@ -7,3 +7,5 @@
 * Vào **Cá nhân -> Phần mở rộng -> (3 chấm) -> Quản lý nguồn** thêm nguồn mình muốn
 
 <figure><img src="../.gitbook/assets/ext-add-2a.png" alt=""><figcaption></figcaption></figure>
+
+**Cài nguồn tổng hợp theo ý mình:** [**Hướng dẫn**](danh-sach-nguon.md#huong-dan-tuy-chinh-nguon-extension-vbook)
