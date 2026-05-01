@@ -31,11 +31,13 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
     Đọc [Mở cài đặt riêng cho một nguồn](../ho-tro/mot-so-cai-dat-khac.md#mo-cai-dat-rieng-cho-mot-nguon)
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2026-04-06 at 17.24.45.png" alt="" width="273"><figcaption><p>Bản thường</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-04-06 at 17.26.53.png" alt=""><figcaption><p>Bản beta</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-01 at 20.05.22.png" alt=""><figcaption><p>Ext Tấn Giang</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-01 at 20.03.05.png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:$danger;">**Lưu ý:**</mark>
 
-1\. vbook bản cũ: <mark style="color:$warning;">**`var JJWXC_TOKEN = "token của bạn"`**</mark>&#x20;
+1\. vbook bản cũ: <mark style="color:$warning;">**`let token = "token của bạn"`**</mark>&#x20;
 
 2\. vbook bản beta: chỉ cần <mark style="color:$warning;">**dán token của bạn vào ô JJWXC\_TOKEN**</mark>
 
