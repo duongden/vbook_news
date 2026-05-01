@@ -15,6 +15,10 @@
 * [Truyện Việt](truyen-chu/truyen-viet.md)
 * [Truyện dịch](truyen-chu/truyen-dich.md)
 
+## PHIM ẢNH - ÂM NHẠC
+
+* [Giới thiệu](phim-anh-am-nhac/gioi-thieu.md)
+
 ## TRUYỆN TRANH
 
 * [Giao diện chung](truyen-tranh/giao-dien-chung.md)
