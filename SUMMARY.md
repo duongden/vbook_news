@@ -38,6 +38,7 @@
 
 ## HỖ TRỢ
 
+* [Ảnh nền](ho-tro/anh-nen.md)
 * [Công cụ](ho-tro/cong-cu.md)
 * [Một số cài đặt khác](ho-tro/mot-so-cai-dat-khac.md)
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
