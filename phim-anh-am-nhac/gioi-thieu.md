@@ -1,5 +1,5 @@
 ---
-description: Giao diện chung của phần truyện chữ
+description: Chỉ dành cho bản beta
 ---
 
 # Giới thiệu
