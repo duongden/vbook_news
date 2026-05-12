@@ -26,7 +26,7 @@
 
 #### 🌐 Cộng đồng
 
-**Discord:** [https://discord.gg/UdT28CNw](https://discord.gg/UdT28CNw)
+**Discord:** [https://discord.gg/c6quvWX3A](https://discord.gg/c6quvWX3A)
 
 ***
 

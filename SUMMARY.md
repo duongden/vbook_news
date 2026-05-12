@@ -14,6 +14,7 @@
 * [Giao diện chung](truyen-chu/giao-dien-chung.md)
 * [Truyện Việt](truyen-chu/truyen-viet.md)
 * [Truyện dịch](truyen-chu/truyen-dich.md)
+* [Dịch từ file](truyen-chu/dich-tu-file.md)
 
 ## PHIM ẢNH - ÂM NHẠC
 
