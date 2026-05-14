@@ -53,4 +53,5 @@
 
 **Nếu muốn tên 7 sắc cầu vồng?**
 
-* Click: [vào đây](https://nightmare.top/i/vbook/user_name_color.php)
+* Click: [vào đây](https://nightmare.top/i/vbook/user_name_color.php) để thử nghiệm màu sắc cho tên của mình
+* Donate thêm 50k nữa vào tài khoản **🔰 Donate** ở trên
