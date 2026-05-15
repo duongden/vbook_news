@@ -7,7 +7,6 @@
 * [Giao diện chung](giao-dien-app/giao-dien-chung.md)
 * [Bản thường](giao-dien-app/ban-thuong.md)
 * [Bản beta](giao-dien-app/ban-beta.md)
-* [Một số vấn đề khác](giao-dien-app/mot-so-van-de-khac.md)
 
 ## TRUYỆN CHỮ
 
@@ -41,6 +40,7 @@
 
 * [Ảnh nền](ho-tro/anh-nen.md)
 * [Công cụ](ho-tro/cong-cu.md)
+* [Một số vấn đề khác](ho-tro/mot-so-van-de-khac.md)
 * [Một số cài đặt khác](ho-tro/mot-so-cai-dat-khac.md)
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
 * [Các kênh hỗ trợ](ho-tro/cac-kenh-ho-tro.md)

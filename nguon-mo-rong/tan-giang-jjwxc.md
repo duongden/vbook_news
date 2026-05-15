@@ -31,24 +31,29 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
     Đọc [Mở cài đặt riêng cho một nguồn](../ho-tro/mot-so-cai-dat-khac.md#mo-cai-dat-rieng-cho-mot-nguon)
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-01 at 20.05.22.png" alt=""><figcaption><p>Ext Tấn Giang</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-15 at 13.13.23.png" alt=""><figcaption><p>Ext Tấn Giang</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-01 at 20.03.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 38.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### <mark style="color:$danger;">**Lưu ý:**</mark>
 
 1\. vbook bản cũ: <mark style="color:$warning;">**`let token = "token của bạn"`**</mark>&#x20;
 
-2\. vbook bản beta: chỉ cần <mark style="color:$warning;">**dán token của bạn vào ô JJWXC\_TOKEN**</mark>
+2\. vbook bản beta:&#x20;
+
+* Chỉ cần <mark style="color:$warning;">**dán token của bạn vào ô JJWXC\_TOKEN**</mark>
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-06 at 17.29.39.png" alt=""><figcaption><p>ví dụ nhập token cho bản beta</p></figcaption></figure>
 
 3. Nếu token bị hết hạn hoặc bị lộ token thì hãy logout app Tấn Giang, sau đó login lại để lấy token mới
+4. Trong tương lai có thể sẽ cần nhập thêm <mark style="color:$danger;">**JJWXC User Key**</mark>
+   1. Bản thường: <mark style="color:$warning;">**let jjwxcUserKey = 'user \_key của bạn';**</mark>
+   2.  Bản beta:&#x20;
+
+       <figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/3 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Video hướng dẫn với **app NetCapture**
 
 {% embed url="https://www.youtube.com/watch?v=pJq45nT8fV8" %}
-
-4. Các nguồn Tấn Giang đang hoạt động
-
-<figure><img src="../.gitbook/assets/2026-05-01_164612.png" alt=""><figcaption></figcaption></figure>
