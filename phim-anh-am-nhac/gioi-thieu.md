@@ -1,8 +1,8 @@
----
-description: Chỉ dành cho bản beta
----
-
 # Giới thiệu
+
+#### <mark style="color:$danger;">Chỉ dành cho bản beta</mark>
+
+
 
 1. Cài nguồn phim/nhạc
 
