@@ -14,6 +14,7 @@
 * [Truyện Việt](truyen-chu/truyen-viet.md)
 * [Truyện dịch](truyen-chu/truyen-dich.md)
 * [Dịch từ file](truyen-chu/dich-tu-file.md)
+* [Rule mục lục của vbook](truyen-chu/rule-muc-luc-cua-vbook.md)
 
 ## PHIM ẢNH - ÂM NHẠC
 

@@ -1,6 +1,8 @@
 # Giới thiệu
 
+{% hint style="info" %}
 #### <mark style="color:$danger;">Chỉ dành cho bản beta</mark>
+{% endhint %}
 
 
 
