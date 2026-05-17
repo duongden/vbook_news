@@ -46,3 +46,11 @@ Ví dụ với TTS của Zalo, các TTS trả phí khác cũng tương tự
 <figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p>Bản thường</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/9.png" alt=""><figcaption><p>Bản beta</p></figcaption></figure>
+
+### Hướng dẫn dùng Tiktok TTS
+
+<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
