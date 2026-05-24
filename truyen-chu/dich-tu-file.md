@@ -5,7 +5,7 @@
 <figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[<mark style="color:$danger;">Bản này không hỗ trợ xuất file từ file</mark>](#user-content-fn-1)[^1]
+[<mark style="color:$danger;">Bản này không hỗ trợ xuất bản dich từ file</mark>](#user-content-fn-1)[^1] <mark style="color:$danger;">nhập</mark>
 {% endhint %}
 
 ## Bản beta
@@ -15,7 +15,7 @@
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:$danger;">Bản này hỗ trợ xuất file từ file</mark>
+<mark style="color:$danger;">Bản này hỗ trợ xuất bản dịch từ file nhập</mark>
 {% endhint %}
 
 [^1]: 
