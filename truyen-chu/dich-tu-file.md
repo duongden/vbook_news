@@ -18,4 +18,8 @@
 <mark style="color:$danger;">Bản này hỗ trợ xuất bản dịch từ file nhập</mark>
 {% endhint %}
 
+#### Export file dịch <mark style="color:$danger;">(bản beta)</mark>
+
+<figure><img src="../.gitbook/assets/Group 40.png" alt="" width="540"><figcaption></figcaption></figure>
+
 [^1]: 
