@@ -256,6 +256,16 @@ npx wrangler deploy
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 16.46.54.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+### Lưu Ý Về Giới Hạn Vật Lý (Hạ Tầng Cloudflare)
+
+Vì hệ thống vận hành trên kiến trúc Serverless miễn phí của Cloudflare, có một số giới hạn vật lý cần chú ý:
+
+1. <mark style="color:$danger;">**Giới hạn dung lượng file tải lên tối đa là 100MB:**</mark> Cloudflare Workers giới hạn dung lượng request tối đa là **100MB**. Nếu bạn tải lên file đơn lẻ nặng hơn 100MB, Cloudflare Edge sẽ trả về lỗi <mark style="color:$danger;">`413 Request Entity Too Large`</mark> trước khi Worker kịp xử lý. Hãy thiết lập WebDAV client chia nhỏ file nếu bạn cần backup khối lượng dữ liệu khổng lồ.
+2. **Đồng bộ KV (Eventual Consistency):** Workers KV có cơ chế đồng bộ phân tán toàn cầu với độ trễ từ 1-5 giây. Vì vậy, dung lượng lưu trữ trên trang Admin hoặc Web UI có thể mất vài giây để cập nhật chính xác số bytes sau khi bạn vừa tải một lượng lớn file lên.
+3. **Bắt buộc sử dụng HTTPS:** Xác thực Basic Auth gửi mật khẩu dưới dạng chuỗi Base64. Luôn đảm bảo sử dụng đường dẫn `https://` (mặc định Cloudflare đã kích hoạt sẵn) để đảm bảo mật khẩu được truyền đi qua kênh mã hóa an toàn.
+{% endstep %}
 {% endstepper %}
 
 ### Chế độ nhà phát triển
