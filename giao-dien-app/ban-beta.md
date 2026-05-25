@@ -252,6 +252,7 @@ npx wrangler deploy
 * Hệ thống sẽ hỏi thông tin đăng nhập **Basic Auth**.
 * Nhập tài khoản người dùng WebDAV của bạn (đã tạo trong trang Admin).
 * Bạn có thể xem trực quan danh sách file, kiểm tra dung lượng còn trống, tải file về máy hoặc xóa file cực kỳ thuận tiện.
+* Có thể chia sẻ/dùng chung webdav bằng cách tạo new user.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 16.46.54.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
