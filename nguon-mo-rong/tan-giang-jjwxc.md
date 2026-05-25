@@ -29,7 +29,7 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 7. Cài ext Tấn Giang - Đọc [Danh sách nguồn](danh-sach-nguon.md), chỉ cẩn cài 1 trong 3 ext hiện có là được
 8.  Nhập token vào ô Mã bổ sung
 
-    Đọc [Mở cài đặt riêng cho một nguồn](../ho-tro/mot-so-cai-dat-khac.md#mo-cai-dat-rieng-cho-mot-nguon)
+    Đọc [Mở cài đặt riêng cho một nguồn](../truyen-chu/mot-so-cai-dat-khac.md#mo-cai-dat-rieng-cho-mot-nguon)
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-15 at 13.13.23.png" alt=""><figcaption><p>Ext Tấn Giang</p></figcaption></figure>
 

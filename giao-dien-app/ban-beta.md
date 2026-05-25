@@ -78,13 +78,13 @@ Nhấn giữ truyện muốn sửa
 
 <figure><img src="../.gitbook/assets/cong-cu-tra-cuu-tu.png" alt=""><figcaption><p>Công cụ tra cứu từ trong phần cài đặt đọc truyện và cách nó hiển thị trong app</p></figcaption></figure>
 
-#### Nghe truyện (Text-to-speech)
+### Nghe truyện (Text-to-speech)
 
 <figure><img src="../.gitbook/assets/tts.png" alt="" width="362"><figcaption></figcaption></figure>
 
 [<mark style="color:$primary;">**Các vấn đề liên quan đến TTS**</mark>](../nghe-truyen/nghe-truyen-tts.md)
 
-#### Tự động dịch truyện
+### Tự động dịch truyện
 
 Dành cho ngôn ngữ không phải tiếng Việt
 
@@ -92,13 +92,13 @@ Dành cho ngôn ngữ không phải tiếng Việt
 
 [<mark style="color:$primary;">**Các vấn đề và cài đặt liên quan đến dịch truyện**</mark>](../truyen-chu/truyen-dich.md)
 
-#### Kết nối tải truyện
+### Kết nối tải truyện
 
 Tốc độ tải truyện chung
 
 <figure><img src="../.gitbook/assets/ket-noi-tai-truyen.png" alt=""><figcaption></figcaption></figure>
 
-#### Chuyển tiếp tên miền
+### Chuyển tiếp tên miền
 
 Đổi tên miền mới: dành cho những trang web chỉ đổi tên miền nhưng không thay đổi cấu trúc web. Nhập tên miền cũ ở ô trên và tên miền mới ở ô dưới
 
@@ -108,15 +108,154 @@ Tốc độ tải truyện chung
 
 Cần cài đặt nguồn, sau đó cài đặt ext mới có thể đọc truyện trên vbook được
 
+<a href="/broken/pages/sTOWG5UWCw2bZgLuya40" class="button primary">Danh sách nguồn</a>
+
 ### Thông báo và thống kê
 
 <figure><img src="../.gitbook/assets/thong-bao-thong-ke.png" alt=""><figcaption></figcaption></figure>
 
 ### Sao lưu và đồng bộ
 
-Quá trình này sẽ sao lưu và phục hồi toàn bộ dữ liệu của app (tiến trình đọc, truyện đã tải, ext đã cài qua file zip và qua nguồn, dữ liệu vietphrase chung và riêng, cài đặt app) nhưng <mark style="color:$danger;background-color:yellow;">không bao gồm dữ liệu từ điển và danh sách các repo nguồn</mark>
+#### Nhập dữ liệu từ vbook bản thường qua vbook bản beta
+
+Quá trình này sẽ sao lưu và phục hồi toàn bộ dữ liệu của app (tiến trình đọc, danh sách truyện trong kệ sách, ext đã cài qua file zip và qua nguồn, dữ liệu vietphrase chung và riêng) nhưng <mark style="color:$danger;background-color:yellow;">không bao gồm dữ liệu từ điển, nội dung truyện đã tải, truyện nhập qua file và danh sách các repo nguồn</mark>
+
+1. Đồng bộ dữ liệu bản thường lên Drive
+2. Lên Drive vào thư mục vBook, **tải bản zip vừa đồng bộ về điện thoại**
+3. Mở bản beta lên, vào mục **Đồng bộ và Sao lưu > Nhập và xuất dữ liệu,** chọn **Nhập dữ liệu**, nhập file zip vừa tải về.
 
 <div><figure><img src="../.gitbook/assets/sao-lu-dong-bo-beta-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sao-lu-dong-bo-beta.png" alt=""><figcaption></figcaption></figure></div>
+
+#### Sao lưu và Đồng bộ giữa nhiều thiết bị <mark style="color:$danger;">(bản beta)</mark>
+
+#### 1. Google Drive
+
+* Phương thức đồng bộ: Chọn Google Drive
+* Chọn Đăng nhập
+
+<figure><img src="../.gitbook/assets/Screenshot_20260525-152430_vBook.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+#### 2. Web Dav
+
+{% stepper %}
+{% step %}
+### Yêu cầu chuẩn bị:&#x20;
+
+Bạn cần đăng ký một tài khoản Cloudflare
+{% endstep %}
+
+{% step %}
+### Kích hoạt R2
+
+1. Vào [https://dash.cloudflare.com/cde4cec05bc9e288705067620b6a7fcf/r2/plans](https://dash.cloudflare.com/cde4cec05bc9e288705067620b6a7fcf/r2/plans)
+2.  Chọn <mark style="color:$primary;">**Add R2 subscription to my account**</mark> và điền các thông tin liên quan
+
+
+
+    <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 15.34.57.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Cấu hình Cloudflare
+
+1.  Vào **Cloudflare Dashboard,** mục **R2** và **tạo một Bucket mới** (**ví dụ: vbook-backup-bucket)**: [https://dash.cloudflare.com/08a1ed706f082c8a00f1918888d0585b/r2/overview](https://dash.cloudflare.com/08a1ed706f082c8a00f1918888d0585b/r2/overview)
+
+
+
+    <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 15.48.33.png" alt=""><figcaption></figcaption></figure>
+2.  Vào **Workers & Pages > KV** và tạo một Namespace mới (ví dụ: USER\_KV). **Copy ID của Namespace đó.**\
+    [https://dash.cloudflare.com/08a1ed706f082c8a00f1918888d0585b/workers/kv/namespaces](https://dash.cloudflare.com/08a1ed706f082c8a00f1918888d0585b/workers/kv/namespaces)
+
+
+
+    <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 15.51.45.png" alt=""><figcaption></figcaption></figure>
+
+
+
+    <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 15.59.37.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Cài đặt dự án
+
+* Cài Node
+
+{% code overflow="wrap" %}
+```
+node -v
+npm -v
+```
+{% endcode %}
+
+* Cài Wrangler CLI
+
+{% code overflow="wrap" %}
+```
+npm install -g wrangler
+```
+{% endcode %}
+
+* Tải dự án về máy tính của bạn
+
+{% code overflow="wrap" %}
+```
+git clone https://github.com/kychitoge/vbook-webdav.git
+cd vbook-webdav
+npm install
+```
+{% endcode %}
+{% endstep %}
+
+{% step %}
+### Cấu hình Biến môi trường
+
+Đổi tên file `wrangler.example.jsonc` thành `wrangler.jsonc` ở thư mục gốc và cập nhật thông tin của bạn
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 16.06.47.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Deploy lên Cloudflare
+
+{% code overflow="wrap" %}
+```
+npx wrangler deploy
+```
+{% endcode %}
+{% endstep %}
+
+{% step %}
+### Hướng Dẫn Sử Dụng
+
+1. **Quản trị User (Dành cho Admin)**
+   1. Truy cập đường dẫn bí mật: `https://<ten-worker>.<tài khoản cloudflare của bạn>.workers.dev/admin`
+   2. Nhập mã PIN (Đã cài trong phần ADMIN\_PIN)
+   3. Thêm Username mới, thiết lập Mật khẩu, Dung lượng tối đa (Quota MB), Kích thước file tối đa (Max File MB).
+   4.  Bấm Edit để cập nhật thông số người dùng hiện tại (bỏ trống trường password để giữ nguyên mật khẩu cũ) hoặc Delete để xóa người dùng cùng toàn bộ file R2 của người dùng đó.
+
+
+
+       <figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 16.28.21.png" alt=""><figcaption></figcaption></figure>
+2. **Cấu hình trên Ứng dụng VBook / Legado**
+   1. Mở ứng dụng đọc truyện của bạn, vào phần **Đồng bộ & Sao lưu -> WebDAV**
+   2. **URL / Địa chỉ:** `https://<ten-worker>.<tài khoản cloudflare của bạn>.workers.dev/` (Hoặc có thể thêm `/webdav` phía sau đều được hỗ trợ).
+   3. **Tên đăng nhập (Username):** Username vừa tạo trong trang Admin.
+   4. **Mật khẩu (Password):** Mật khẩu tương ứng vừa tạo trong trang Admin.
+   5. **Thư mục gốc:&#x20;**<mark style="color:red;">**`vbook_backup`**</mark> (Khuyến nghị giữ nguyên để tạo thư mục đồng bộ riêng).
+   6. Bấm **Kiểm tra** để xác thực kết nối (thấy chữ xanh báo thành công) và bấm **Lưu lại**!
+{% endstep %}
+
+{% step %}
+### Giao diện Web Cá Nhân (Fake Cloud Drive)
+
+* Mở trình duyệt truy cập thẳng: `https://<ten-worker>.<tài khoản cloudflare của bạn>.workers.dev/`
+* Hệ thống sẽ hỏi thông tin đăng nhập **Basic Auth**.
+* Nhập tài khoản người dùng WebDAV của bạn (đã tạo trong trang Admin).
+* Bạn có thể xem trực quan danh sách file, kiểm tra dung lượng còn trống, tải file về máy hoặc xóa file cực kỳ thuận tiện.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-25 at 16.46.54.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ### Chế độ nhà phát triển
 

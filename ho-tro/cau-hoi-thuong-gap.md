@@ -56,7 +56,7 @@ Làm mình làm mẩy bị ban acc vĩnh viễn.
 
 <mark style="color:$warning;">**Tương tự cho các trang không thể tìm kiếm trên vbook**</mark>
 
-[**Cách share từ trình duyệt**](mot-so-cai-dat-khac.md#them-truyen-tu-trinh-duyet)
+[**Cách share từ trình duyệt**](../truyen-chu/mot-so-cai-dat-khac.md#them-truyen-tu-trinh-duyet)
 
 ## Về Wattpad
 

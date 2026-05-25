@@ -15,6 +15,7 @@
 * [Truyện dịch](truyen-chu/truyen-dich.md)
 * [Dịch từ file](truyen-chu/dich-tu-file.md)
 * [Rule mục lục của vbook](truyen-chu/rule-muc-luc-cua-vbook.md)
+* [Một số kiến thức khác](truyen-chu/mot-so-cai-dat-khac.md)
 
 ## PHIM ẢNH - ÂM NHẠC
 
@@ -41,7 +42,5 @@
 
 * [Ảnh nền](ho-tro/anh-nen.md)
 * [Công cụ](ho-tro/cong-cu.md)
-* [Một số vấn đề khác](ho-tro/mot-so-van-de-khac.md)
-* [Một số cài đặt khác](ho-tro/mot-so-cai-dat-khac.md)
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
 * [Các kênh hỗ trợ](ho-tro/cac-kenh-ho-tro.md)
