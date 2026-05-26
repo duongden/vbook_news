@@ -16,6 +16,7 @@
 * [Dịch từ file](truyen-chu/dich-tu-file.md)
 * [Rule mục lục của vbook](truyen-chu/rule-muc-luc-cua-vbook.md)
 * [Một số kiến thức khác](truyen-chu/mot-so-cai-dat-khac.md)
+* [Từ khóa tìm truyện](truyen-chu/tu-khoa-tim-truyen.md)
 
 ## PHIM ẢNH - ÂM NHẠC
 
