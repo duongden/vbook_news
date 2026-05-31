@@ -8,7 +8,7 @@ _<mark style="color:$warning;">**Lưu ý: Bản beta chưa được code đầy 
 
 ## Giao diện chung
 
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2Fwp7KkGhqedwSmRe7PDCl%2Fbeta.mp4?alt=media&token=da9f0462-c61c-4f8c-a314-92352451134a" %}
 
 <figure><img src="../.gitbook/assets/giao-dien-home.png" alt="" width="470"><figcaption><p>Ảnh 1</p></figcaption></figure>
 

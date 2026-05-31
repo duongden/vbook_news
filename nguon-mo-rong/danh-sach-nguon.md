@@ -45,6 +45,7 @@ Tìm kiếm các danh sách nguồn và các ext tại đây:
 
 *  Hiện vẫn đang beta/ thử nghiệm nên sẽ có sai sót
 *  Không cần đăng nhập nên sẽ xác thực danh tính qua trình duyệt, phải dùng đúng trình duyệt đó thì mới có thể sửa kệ của mình
+* Khi **đổi máy/hoặc lỡ xoá cookie/localStorage**, liên hệ: [<mark style="color:blue;">**Kỳ Chitoge**</mark>](https://discord.com/users/kyctg)
 *  Các kệ không được sử dụng sau 37 ngày sẽ bị xoá ( kệ không được copy, không được app gọi link thi được tính là không được sử dụng )
 
 
