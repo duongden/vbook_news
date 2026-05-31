@@ -47,6 +47,7 @@ Các công cụ tra cứu từ khác:
 3. **Fanyi:** `https://fanyi.baidu.com/#zh/vie/%s`
 4. **Moldich:** `https://moldich.gq/?q=%s`
 5. **Sogou:** `https://fanyi.sogou.com/text?zh=default&keyword=%s&transfrom=zh-CHS&transto=vi&model=general`
+6. **Google Search AI:** `https://www.google.com/search?udm=50&q=%s+là+gì?`
 {% endstep %}
 
 {% step %}
@@ -96,3 +97,4 @@ Chọn ngôn ngữ dịch > Chọn nguồn dịch > Chọn dịch trang hiện h
 {% endtabs %}
 {% endstep %}
 {% endstepper %}
+
