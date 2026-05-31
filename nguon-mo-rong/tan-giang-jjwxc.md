@@ -13,7 +13,7 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
 ## Lấy token (Android)
 
-1. Tải app lấy token [**tại đây**](../ho-tro/cong-cu.md)
+1. Tải app lấy token và user\_key [**tại đây**](../ho-tro/cong-cu.md)
 2. Tải app Tấn Giang trên điện thoại: [**Link**](https://m.jjwxc.net/download/android)
 3. Đăng nhập app Tấn Giang
 4.  Mở app lấy token, nhấn start
@@ -26,8 +26,13 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
 <div><figure><img src="../.gitbook/assets/token-1.jpg" alt=""><figcaption><p>ví dụ bước 4-5 với app Reqable</p></figcaption></figure> <figure><img src="../.gitbook/assets/token-2.jpg" alt=""><figcaption><p>ví dụ bước 6 với app Reqable</p></figcaption></figure> <figure><img src="../.gitbook/assets/token-3 (1).jpg" alt=""><figcaption><p>ví dụ bước 6 với app Reqable</p></figcaption></figure></div>
 
-7. Cài ext Tấn Giang - Đọc [Danh sách nguồn](danh-sach-nguon.md), chỉ cẩn cài 1 trong 3 ext hiện có là được
-8.  Nhập token vào ô Mã bổ sung
+7.
+
+    <figure><img src="../.gitbook/assets/3 (1).png" alt="" width="375"><figcaption><p>user key</p></figcaption></figure>
+
+
+8. Cài ext Tấn Giang - Đọc [Danh sách nguồn](danh-sach-nguon.md), chỉ cẩn cài 1 trong 3 ext hiện có là được
+9.  Nhập token vào ô Mã bổ sung
 
     Đọc [Mở cài đặt riêng cho một nguồn](../truyen-chu/mot-so-cai-dat-khac.md#mo-cai-dat-rieng-cho-mot-nguon)
 
@@ -37,7 +42,7 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
 #### <mark style="color:$danger;">**Lưu ý:**</mark>
 
-1\. vbook bản cũ: <mark style="color:$warning;">**`let token = "token của bạn"`**</mark>&#x20;
+1\. vbook bản cũ: <mark style="color:$warning;">**`let token = "token của bạn"`**</mark>  và <mark style="color:$warning;">**`let jjwxcUserKey = 'user _key của bạn'`**</mark><mark style="color:$warning;">**;**</mark>
 
 2\. vbook bản beta:&#x20;
 
@@ -45,14 +50,9 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-06 at 17.29.39.png" alt=""><figcaption><p>ví dụ nhập token cho bản beta</p></figcaption></figure>
 
-3. Nếu token bị hết hạn hoặc bị lộ token thì hãy logout app Tấn Giang, sau đó login lại để lấy token mới
-4. Trong tương lai có thể sẽ cần nhập thêm <mark style="color:$danger;">**JJWXC User Key**</mark>
-   1. Bản thường: <mark style="color:$warning;">**let jjwxcUserKey = 'user \_key của bạn';**</mark>
-   2.  Bản beta:&#x20;
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-       <figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/3 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+3. Nếu token bị hết hạn hoặc bị lộ token thì hãy logout app Tấn Giang, sau đó login lại để lấy <mark style="color:$danger;">**token mới và user\_key mới (nếu có)**</mark>
 
 Video hướng dẫn với **app NetCapture**
 
