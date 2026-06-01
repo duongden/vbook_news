@@ -41,7 +41,7 @@
 
 ## HỖ TRỢ
 
-* [Ảnh nền](ho-tro/anh-nen.md)
+* [Ảnh nền và Font chữ](ho-tro/anh-nen-va-font-chu.md)
 * [Công cụ](ho-tro/cong-cu.md)
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
 * [Các kênh hỗ trợ](ho-tro/cac-kenh-ho-tro.md)
