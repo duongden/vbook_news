@@ -48,7 +48,9 @@ Tìm kiếm các danh sách nguồn và các ext tại đây:
 * Khi **đổi máy/hoặc lỡ xoá cookie/localStorage**, liên hệ: [<mark style="color:blue;">**Kỳ Chitoge**</mark>](https://discord.com/users/kyctg)
 *  Các kệ không được sử dụng sau 37 ngày sẽ bị xoá ( kệ không được copy, không được app gọi link thi được tính là không được sử dụng )
 
+#### <mark style="color:red;">Kiểm tra tình trạng của web</mark>
 
+<figure><img src="../.gitbook/assets/Group 41.png" alt=""><figcaption></figcaption></figure>
 
 ## Nguồn TTS
 
