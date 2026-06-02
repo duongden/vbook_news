@@ -16,21 +16,7 @@ Các nguồn Fanqie khác
 
 **1. Noir**
 
-Add nguồn này vào vbook rồi cài ext: `https://fanqie.1415918.xyz/source`
-
-\===========================
-
-Free: 55 requests / ngày.
-
-50k vnd = 10k request ưu tiên / tháng (đọc bình thường + tải nhẹ thì thoải mái). 200k vnd = 50k request ưu tiên / tháng (phù hợp nếu cần tải nhiều).
-
-Request ưu tiên sẽ không bị rate limit.
-
-\===========================
-
-**https://fanqie.1415918.xyz/usage**
-
-**Discord:** [**Noir**](https://discord.com/users/364346855187808256)
+Đang lỗi
 
 \===========================
 
@@ -42,9 +28,9 @@ Request ưu tiên sẽ không bị rate limit.
 
 Chỉ dành cho bản beta: `https://raw.githubusercontent.com/Chanhnh/vbook-ext/main/plugin.json`
 
-**3. Yange**
+**3. Có thể dùng một trong hai ext sau**
 
-[**Link bài viết**](https://discord.com/channels/607084896288243731/1476830093996327097)
+<figure><img src="../.gitbook/assets/Screenshot 2026-06-02 at 15.08.15.png" alt=""><figcaption></figcaption></figure>
 
 ### Về Wikidich
 
