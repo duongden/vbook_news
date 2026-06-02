@@ -40,6 +40,8 @@
 
 **Paypal:** [https://paypal.me/donatevbook](https://paypal.me/donatevbook)
 
+<mark style="color:$warning;">**Donate tối thiểu 50k**</mark>
+
 **Các quyền lợi của tài khoản free:**
 
 * Sử dụng như tài khoản khách và 1 ngày chỉ được phép tải về **tối đa 3 bộ truyện** về máy đọc offline!
