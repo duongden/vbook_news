@@ -58,7 +58,7 @@ Nhấn giữ truyện muốn sửa
 3. Đọc truyện: các cài đặt liên quan đến việc đọc truyện [(Link)](ban-beta.md#cai-dat-doc-truyen)
 4. Thông báo: nhận thông báo liên quan đến chat, truyện được cập nhật chương mới... [(Link)](ban-beta.md#thong-bao-va-thong-ke)
 5. Thống kê: thống kê thời gian đọc truyện và dung lượng bộ nhớ bị chiếm dụng [(Link)](ban-beta.md#thong-bao-va-thong-ke)
-6. Phần mở rộng: [Hướng dẫn](/broken/pages/sTOWG5UWCw2bZgLuya40)
+6. Phần mở rộng: [Hướng dẫn](https://app.gitbook.com/s/wIrVteEIDLZ8Ul4z69Rr/nguon-mo-rong)
 7. Đồng bộ và Sao lưu [(Link)](ban-beta.md#sao-luu-va-dong-bo)
 8. Trợ giúp
 9. Phản hồi
@@ -108,7 +108,7 @@ Tốc độ tải truyện chung
 
 Cần cài đặt nguồn, sau đó cài đặt ext mới có thể đọc truyện trên vbook được
 
-<a href="/broken/pages/sTOWG5UWCw2bZgLuya40" class="button primary">Danh sách nguồn</a>
+<a href="https://app.gitbook.com/s/wIrVteEIDLZ8Ul4z69Rr/nguon-mo-rong" class="button primary">Danh sách nguồn</a>
 
 ### Thông báo và thống kê
 
