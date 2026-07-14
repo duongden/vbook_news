@@ -14,7 +14,7 @@
 **iOS**
 
 * **Bản ổn định:** (không có)
-* **Bản beta:** [https://t.me/vbook\_beta\_up\_tracker\_chanhnh](https://t.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
+* **Bản beta:** [https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh](https://t.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
 
 **Desktop**
 
