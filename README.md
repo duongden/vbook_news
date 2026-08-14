@@ -8,7 +8,7 @@
 
 **Android**
 
-* **Bản ổn định:** [https://vbookapp.com/download](https://vbookapp.com/download)
+* **Bản ổn định:** [https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk](https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk)
 * **Bản beta:** [https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh](https://telegram.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
 
 **iOS**
