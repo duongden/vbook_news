@@ -26,8 +26,8 @@
 
 ## NGUỒN MỞ RỘNG
 
-* [Cài nguồn bản thường](nguon-mo-rong/cai-nguon-ban-thuong.md)
-* [Cài nguồn bản beta](nguon-mo-rong/cai-nguon-ban-beta.md)
+* [Cài nguồn bản cũ](nguon-mo-rong/cai-nguon-ban-thuong.md)
+* [Cài nguồn bản mới](nguon-mo-rong/cai-nguon-ban-beta.md)
 * [Danh sách nguồn](nguon-mo-rong/danh-sach-nguon.md)
 * [Tấn giang JJWXC](nguon-mo-rong/tan-giang-jjwxc.md)
 * [Cà chua](nguon-mo-rong/ca-chua.md)
