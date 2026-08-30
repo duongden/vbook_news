@@ -6,15 +6,15 @@
 
 #### ⬇️ Download
 
-**Android**
+**Android và iOS**
 
-* **Bản ổn định:** [https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk](https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk)
-* **Bản beta:** [https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh](https://telegram.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
+* **Bản cũ:** [https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk](https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk)
 
-**iOS**
+> <mark style="color:$danger;">**Bản cũ không còn được hỗ trợ và phát triển nữa.**</mark>**&#x20;Tất cả các hướng dẫn trong này chỉ dành cho bản vbook beta**
 
-* **Bản ổn định:** (không có)
-* **Bản beta:** [https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh](https://t.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
+* **Bản beta:** [**https://vbookapp.com/**](https://vbookapp.com/)
+
+> Theo dõi và nhận thông báo cập nhật và file cài đặt tại kênh này: [**https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh**](https://telegram.me/vbook_beta_up_tracker_chanhnh)
 
 **Desktop**
 
@@ -27,6 +27,8 @@
 #### 🌐 Cộng đồng
 
 **Discord:** [https://discord.gg/c6quvWX3A](https://discord.gg/c6quvWX3A)
+
+**Kênh hỗ trợ và giải đáp thắc mắc dành cho iOS:** [Cài vbook trên iOS](https://discord.com/channels/607084896288243731/1447756642346209374)
 
 ***
 

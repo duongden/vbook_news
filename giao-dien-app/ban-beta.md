@@ -1,14 +1,12 @@
 ---
-description: Hướng dẫn sử dụng bản beta
+description: Hướng dẫn sử dụng bản mới
 ---
 
-# Bản beta
+# Giao diện app
 
-_<mark style="color:$warning;">**Lưu ý: Bản beta chưa được code đầy đủ các tính năng**</mark>_
+## Video giới thiệu
 
-## Giao diện chung
-
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2Fwp7KkGhqedwSmRe7PDCl%2Fbeta.mp4?alt=media&token=da9f0462-c61c-4f8c-a314-92352451134a" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2F0qSxteJvuxaWimtcDL8U%2F0501.mp4?alt=media&token=36494b04-c614-4c5d-bb31-dbbbd83e19e0" %}
 
 <figure><img src="../.gitbook/assets/giao-dien-home.png" alt="" width="470"><figcaption><p>Ảnh 1</p></figcaption></figure>
 
@@ -20,7 +18,7 @@ _<mark style="color:$warning;">**Lưu ý: Bản beta chưa được code đầy 
 2. <mark style="color:$primary;">**Từ trái qua phải:**</mark>
    1. Danh sách truyện đang/đã tải
    2. Thư viện phân loại truyện theo danh mục do user tạo: ví dụ Ngôn tình, Huyền huyễn,... (Ảnh 4)\
-      &#xNAN;_<mark style="color:$warning;">Lưu ý: Cần phải tạo danh sách danh mục trước thì mới có thể thêm truyện vào</mark>_
+      _<mark style="color:$warning;">Lưu ý: Cần phải tạo danh sách danh mục trước thì mới có thể thêm truyện vào</mark>_
    3. Tất cả: Kệ sách chính, được phân chia truyện theo thể loại nguồn mặc định của vbook: Truyện tranh, truyện chữ, E-book (Ảnh 5)
    4. Lịch sử: danh sách truyện đã đọc
    5. Theo dõi: Danh sách truyện đã nhấn theo dõi (tiến độ cập nhật chương của tác giả)

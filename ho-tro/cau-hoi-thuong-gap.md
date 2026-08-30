@@ -8,30 +8,6 @@ Không làm, không hỗ trợ!
 
 Còn đọc tốt.
 
-## Truyện Fanqie
-
-Đây là nguồn trả phí! Tôi có bán ext fanqie cho các cô nương xinh đẹp :D
-
-Các nguồn Fanqie khác
-
-**1. Noir**
-
-Đang lỗi
-
-\===========================
-
-[**Hướng dẫn Fanqie dành cho user muốn tự host**](https://discord.com/channels/607084896288243731/1478715436785991711/1478715436785991711)
-
-\===========================
-
-**2. Chanhnh**
-
-Chỉ dành cho bản beta: `https://raw.githubusercontent.com/Chanhnh/vbook-ext/main/plugin.json`
-
-**3. Có thể dùng một trong hai ext sau**
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-06-02 at 15.08.15.png" alt=""><figcaption></figcaption></figure>
-
 ### Về Wikidich
 
 <mark style="color:$danger;">**Không duyệt truyện trên Wikidich bằng vbook.**</mark>

@@ -14,10 +14,6 @@ Các dữ liệu dịch nằm trong phần này sẽ ảnh hưởng đến toàn
 {% tab title="Bản beta" %}
 <figure><img src="../.gitbook/assets/tu-dong-dich-truyen (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-
-{% tab title="Bản thường" %}
-<figure><img src="../.gitbook/assets/cai-tu-dien.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
 {% endtabs %}
 {% endstep %}
 
@@ -61,10 +57,10 @@ Chọn ngôn ngữ dịch > Chọn nguồn dịch > Chọn dịch trang hiện h
 {% step %}
 ### Giao diện dịch
 
-{% tabs %}
-{% tab title="Bản beta" %}
 <figure><img src="../.gitbook/assets/dich-truyen-4.png" alt=""><figcaption></figcaption></figure>
 
+{% tabs %}
+{% tab title="Bản beta" %}
 
 
 1. Mở rộng / Bỏ bớt cụm từ về hai bên trái
@@ -76,23 +72,6 @@ Chọn ngôn ngữ dịch > Chọn nguồn dịch > Chọn dịch trang hiện h
 7. **NE: Name** - sửa tên. **VP: Vietphrase** - sửa từ/cụm từ không thuộc tên. **Nhấn giữ để thay đổi cài đặt dịch** mặc định là **NE** hay **VP**, **Riêng** hay **Chung**
    1. Riêng: Chỉ áp dụng cho truyện đang đọc
    2. Chung: Thay đổi áp dụng cho các truyện còn lại trong kệ sách
-{% endtab %}
-
-{% tab title="Bản thường" %}
-<figure><img src="../.gitbook/assets/giao-dien-dich-vp-1.png" alt=""><figcaption></figcaption></figure>
-
-
-
-1. Đoạn văn gốc tiếng Trung, cụm in đậm là cụm muốn sửa. Nếu nhấn giữ đè lên cụm in đậm thì có thể copy từ/cụm từ cần dịch
-2. Nội dung đang sửa.
-3. Chọn nghĩa cho từ/cụm từ đang được chọn, nội dung ở vị trí số 3 sẽ đổi theo. Nghĩa được hiển thị tại mục này bao gồm nghĩa gốc Hán Việt và nghĩa khác (nếu có) của từ/cụm từ đó trong file Vietphrase.
-4. Tùy chọn viết hoa chữ cái đầu cho từ/cụm từ đang được chọn.
-5. **NE: Name** - sửa tên. **VP: Vietphrase** - sửa từ/cụm từ không thuộc tên. Mặc định sẽ **lưu vào từ điển Riêng,** **chọn Chung sẽ lưu vào từ điển Chung. Nhấn giữ để lưu cài đặt dịch mặc định**
-6. Tra cứu nghĩa của từ/cụm từ đã chọn.
-7. Mở rộng/Bỏ bớt cụm từ về hai bên trái/phải.
-8. Tra cứu từ/cụm từ cần dịch. Hiện tại bản thường chỉ có một chế độ tra cứu là dùng Google Translate. Nhấn vào nút translate để chuyển đổi qua lại lại tiếng Việt và Anh.&#x20;
-9. Bỏ chọn/Reset
-10. Các công cụ dịch. Trượt sang trái để hiển thị nút thêm vào các công cụ dịch khác. Một số công cụ dịch khác: **Xem lại bước số 3**
 {% endtab %}
 {% endtabs %}
 {% endstep %}

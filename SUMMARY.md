@@ -4,9 +4,7 @@
 
 ## GIAO DIỆN APP
 
-* [Giao diện chung](giao-dien-app/giao-dien-chung.md)
-* [Bản thường](giao-dien-app/ban-thuong.md)
-* [Bản beta](giao-dien-app/ban-beta.md)
+* [Giao diện app](giao-dien-app/ban-beta.md)
 
 ## TRUYỆN CHỮ
 
@@ -32,6 +30,7 @@
 * [Cài nguồn bản beta](nguon-mo-rong/cai-nguon-ban-beta.md)
 * [Danh sách nguồn](nguon-mo-rong/danh-sach-nguon.md)
 * [Tấn giang JJWXC](nguon-mo-rong/tan-giang-jjwxc.md)
+* [Cà chua](nguon-mo-rong/ca-chua.md)
 * [Legado](nguon-mo-rong/legado.md)
 
 ## NGHE TRUYỆN
