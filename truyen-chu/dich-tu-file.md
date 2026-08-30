@@ -1,25 +1,9 @@
 # Dịch từ file
 
-## Bản thường
-
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-[<mark style="color:$danger;">Bản này không hỗ trợ xuất bản dich từ file</mark>](#user-content-fn-1)[^1] <mark style="color:$danger;">nhập</mark>
-{% endhint %}
-
-## Bản beta
-
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-<mark style="color:$danger;">Bản này hỗ trợ xuất bản dịch từ file nhập</mark>
-{% endhint %}
-
-#### Export file dịch <mark style="color:$danger;">(bản beta)</mark>
+#### Export file dịch
 
 <figure><img src="../.gitbook/assets/Group 40.png" alt="" width="540"><figcaption></figcaption></figure>
-
-[^1]: 
