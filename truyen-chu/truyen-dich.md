@@ -8,13 +8,9 @@ description: Cài đặt cho các nguồn tiếng Trung
 {% step %}
 ### Cài đặt dịch:&#x20;
 
-Các dữ liệu dịch nằm trong phần này sẽ ảnh hưởng đến toàn bộ app, bao gồm Kệ sách, Khám phá, Trang nguồn
-
-{% tabs %}
-{% tab title="Bản beta" %}
 <figure><img src="../.gitbook/assets/tu-dong-dich-truyen (1).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+
+Các dữ liệu dịch nằm trong phần này sẽ ảnh hưởng đến toàn bộ app, bao gồm Kệ sách, Khám phá, Trang nguồn
 {% endstep %}
 
 {% step %}
@@ -59,21 +55,17 @@ Chọn ngôn ngữ dịch > Chọn nguồn dịch > Chọn dịch trang hiện h
 
 <figure><img src="../.gitbook/assets/dich-truyen-4.png" alt=""><figcaption></figcaption></figure>
 
-{% tabs %}
-{% tab title="Bản beta" %}
 
 
-1. Mở rộng / Bỏ bớt cụm từ về hai bên trái
-2. Mở rộng / Bỏ bớt cụm từ về hai bên phải
-3. Khung nội dung đang sửa
-4. Chọn nghĩa cho từ/cụm từ đang được chọn, nội dung ở vị trí số 3 sẽ đổi theo. Nghĩa được hiển thị tại mục này bao gồm nghĩa gốc Hán Việt và nghĩa khác (nếu có) của từ/cụm từ đó trong file Vietphrase.
-5. Dịch theo: VP (Vietphrase), HV (Hán Việt), Bing, Google... (cần cài [**ext translate**](../nguon-mo-rong/danh-sach-nguon.md#nguon-ext-dich))
-6. Tùy chọn viết hoa cho từ/cụm từ đang được chọn.
-7. **NE: Name** - sửa tên. **VP: Vietphrase** - sửa từ/cụm từ không thuộc tên. **Nhấn giữ để thay đổi cài đặt dịch** mặc định là **NE** hay **VP**, **Riêng** hay **Chung**
-   1. Riêng: Chỉ áp dụng cho truyện đang đọc
-   2. Chung: Thay đổi áp dụng cho các truyện còn lại trong kệ sách
-{% endtab %}
-{% endtabs %}
+* Mở rộng / Bỏ bớt cụm từ về hai bên trái
+* Mở rộng / Bỏ bớt cụm từ về hai bên phải
+* Khung nội dung đang sửa
+* Chọn nghĩa cho từ/cụm từ đang được chọn, nội dung ở vị trí số 3 sẽ đổi theo. Nghĩa được hiển thị tại mục này bao gồm nghĩa gốc Hán Việt và nghĩa khác (nếu có) của từ/cụm từ đó trong file Vietphrase.
+* Dịch theo: VP (Vietphrase), HV (Hán Việt), Bing, Google... (cần cài [**ext translate**](../nguon-mo-rong/danh-sach-nguon.md#nguon-ext-dich))
+* Tùy chọn viết hoa cho từ/cụm từ đang được chọn.
+* **NE: Name** - sửa tên. **VP: Vietphrase** - sửa từ/cụm từ không thuộc tên. **Nhấn giữ để thay đổi cài đặt dịch** mặc định là **NE** hay **VP**, **Riêng** hay **Chung**
+  1. Riêng: Chỉ áp dụng cho truyện đang đọc
+  2. Chung: Thay đổi áp dụng cho các truyện còn lại trong kệ sách
 {% endstep %}
 {% endstepper %}
 
