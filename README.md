@@ -10,9 +10,9 @@
 
 * **Bản cũ:** [https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk](https://raw.githubusercontent.com/Darkrai9x/vbook-settings/refs/heads/main/vBooks.apk)
 
-> <mark style="color:$danger;">**Bản cũ không còn được hỗ trợ và phát triển nữa.**</mark>**&#x20;Tất cả các hướng dẫn trong này chỉ dành cho bản vbook beta**
+> <mark style="color:$danger;">**Bản cũ không còn được hỗ trợ và phát triển nữa.**</mark>**&#x20;Tất cả các hướng dẫn trong này chỉ dành cho bản vbook bản mới**
 
-* **Bản beta:** [**https://vbookapp.com/**](https://vbookapp.com/)
+* **Bản mới:** [**https://vbookapp.com/**](https://vbookapp.com/)
 
 > Theo dõi và nhận thông báo cập nhật và file cài đặt tại kênh này: [**https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh**](https://telegram.me/vbook_beta_up_tracker_chanhnh)
 
