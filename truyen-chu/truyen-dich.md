@@ -21,6 +21,7 @@ Các dữ liệu dịch nằm trong phần này sẽ ảnh hưởng đến toàn
 
 Link:&#x20;
 
+* **Web tổng hợp data Vietphrase:** [https://qt.vbookext.me/collections](https://qt.vbookext.me/collections)
 * **Trà sữa (duongden)**
   * [Vietphrase Basic](https://drive.google.com/drive/folders/1sZrmJYPV6Jw69w31dG2NyY6S8SYnbrX4?usp=sharing)
 * **MrBeo**
