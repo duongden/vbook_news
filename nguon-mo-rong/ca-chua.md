@@ -44,21 +44,12 @@ Hãy đọc đúng hướng dẫn của từng phiên bản.
 ## Free + Pre
 
 * <mark style="color:$success;">**Sói Xám (Fanqie) — Will Sun**</mark>
-* <mark style="color:$success;">**Trời nắng hợp tập - Đường đen**</mark>
 
 > <mark style="color:$danger;">**Web chết thì ext chết**</mark>
-
-Tài khoản free sẽ có giới hạn về số lượng chương bạn được đọc và lướt.
-
-Ví dụ đối với Qingtian cho user chưa đăng nhập hoặc chưa mua VIP/SVIP là: **khoảng 10 lượt truy cập/ngày và đọc 3 chương mỗi 30 giây**
-
-**Mua VIP/SVIP QINGTIAN tại:** [**https://v1.gyks.cf**](https://v1.gyks.cf)
 
 **Mua VIP/SVIP Sói Xám tại:** [**https://api.langge.cf/**](https://api.langge.cf/)
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-30 at 18.57.11.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-08-30 at 18.59.30.png" alt=""><figcaption></figcaption></figure>
 
 ## Premium
 
