@@ -53,6 +53,10 @@ Hãy đọc đúng hướng dẫn của từng phiên bản.
 
 ## Premium
 
+{% hint style="info" %}
+<mark style="color:$danger;">**Chỉ dành cho vBook bản mới**</mark>
+{% endhint %}
+
 **Trả phí, có bảo hành, API trực tiếp từ app, không cần root máy, không trung gian, không cần cài thêm phần mềm nào nữa**
 
 Liên hệ Discord: **Bảo Bảo (quocbao7276)**
