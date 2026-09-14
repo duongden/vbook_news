@@ -18,9 +18,9 @@
 
 **Desktop**
 
-* **Windows:** cập nhật sau
-* **Mac:** cập nhật sau
-* **Linux:** cập nhật sau
+* **Windows:** [https://bit.ly/4h6pPew](https://bit.ly/4h6pPew)
+* **Mac:** [https://bit.ly/3SMQdC1](https://bit.ly/3SMQdC1)
+* **Linux:** [**Deb**](https://bit.ly/3TtikGw) **+** [**rpm**](https://bit.ly/4gQdGvh)
 
 ***
 
