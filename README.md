@@ -16,7 +16,7 @@
 
 > Theo dõi và nhận thông báo cập nhật và file cài đặt tại kênh này: [**https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh**](https://telegram.me/vbook_beta_up_tracker_chanhnh)
 
-**Desktop**
+**Desktop: Bản này ad chưa code xong nên tính năng chưa đầy đủ, đừng thắc mắc sao không dùng được**&#x20;
 
 * **Windows:** [https://bit.ly/4h6pPew](https://bit.ly/4h6pPew)
 * **Mac:** [https://bit.ly/3SMQdC1](https://bit.ly/3SMQdC1)
