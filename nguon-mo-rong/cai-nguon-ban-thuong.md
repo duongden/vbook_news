@@ -1,4 +1,8 @@
-# Cài nguồn bản thường
+---
+hidden: true
+---
+
+# Hướng dẫn cài nguồn bản cũ
 
 * Vào **Cá nhân -> Phần mở rộng -> (3 chấm) -> Quản lý nguồn** thêm nguồn mình muốn. Hoặc nhấn dấu ✚ để thêm nguồn ngoài danh sách
 

@@ -27,7 +27,7 @@
 ## NGUỒN MỞ RỘNG
 
 * [Hướng dẫn cài nguồn bản cũ](nguon-mo-rong/cai-nguon-ban-thuong.md)
-* [Hướng dẫn cài nguồn bản mới](nguon-mo-rong/cai-nguon-ban-beta.md)
+* [Hướng dẫn cài nguồn bản mới](nguon-mo-rong/cai-nguon-ban-moi.md)
 * [Danh sách nguồn](nguon-mo-rong/danh-sach-nguon.md)
 * [Tấn giang JJWXC](nguon-mo-rong/tan-giang-jjwxc.md)
 * [Cà chua](nguon-mo-rong/ca-chua.md)
