@@ -12,9 +12,9 @@
 
 **Desktop: Bản này ad chưa code xong nên tính năng chưa đầy đủ, đừng thắc mắc sao không dùng được**&#x20;
 
-* **Windows:** [https://bit.ly/4h6pPew](https://bit.ly/4h6pPew)
-* **Mac:** [https://bit.ly/3SMQdC1](https://bit.ly/3SMQdC1)
-* **Linux:** [**Deb**](https://bit.ly/3TtikGw) **+** [**rpm**](https://bit.ly/4gQdGvh)
+* [**Windows**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook-1.0.1.msi)
+* [**Mac**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook-1.0.1.dmg)
+* **Linux:** [**Deb**](https://bit.ly/3TtikGw) **+** [**rpm**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vbook-1.0.1.x86_64.rpm)
 
 ***
 
