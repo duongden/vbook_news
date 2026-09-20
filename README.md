@@ -6,7 +6,7 @@
 
 #### ⬇️ Download
 
-[**https://vbookapp.com/**](https://vbookapp.com/)
+[**Android**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook_1.0.1.apk) **+** [**iOS App store**](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
 
 > Theo dõi và nhận thông báo cập nhật và file cài đặt tại kênh này: [**https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh**](https://telegram.me/vbook_beta_up_tracker_chanhnh)
 
