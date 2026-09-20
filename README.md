@@ -20,9 +20,7 @@
 
 #### 🌐 Cộng đồng
 
-**Discord:** [https://discord.gg/c6quvWX3A](https://discord.gg/c6quvWX3A)
-
-**Kênh hỗ trợ và giải đáp thắc mắc dành cho iOS:** [Cài vbook trên iOS](https://discord.com/channels/607084896288243731/1447756642346209374)
+**Discord:** [https://discord.gg/aGXMkktXC](https://discord.gg/aGXMkktXC)
 
 ***
 
