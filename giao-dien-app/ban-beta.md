@@ -1,5 +1,5 @@
 ---
-description: Hướng dẫn sử dụng bản mới
+description: Version 1.0.2
 ---
 
 # Giao diện app
