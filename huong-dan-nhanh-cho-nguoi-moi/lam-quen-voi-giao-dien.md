@@ -6,7 +6,7 @@ description: Version 1.0.2
 
 ## Video giới thiệu
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2F0qSxteJvuxaWimtcDL8U%2F0501.mp4?alt=media&token=36494b04-c614-4c5d-bb31-dbbbd83e19e0" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2FRP6Z8A6VROAMeRel6aYY%2F1.mp4?alt=media&token=8be7bf88-674f-4b1a-b3fc-fbb35e42ee36" %}
 
 <figure><img src="../.gitbook/assets/giao-dien-home.png" alt="" width="470"><figcaption><p>Ảnh 1</p></figcaption></figure>
 
