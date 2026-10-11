@@ -6,7 +6,7 @@
 
 * [Làm quen với giao diện](huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md)
 * [Cài đặt và quản lý dữ liệu](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/README.md)
-  * [Cài đặt đọc truyệnC](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/cai-dat-doc-truyen.md)
+  * [Cài đặt đọc truyện](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/cai-dat-doc-truyen.md)
   * [Nguồn và tên miền](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/nguon-va-ten-mien.md)
   * [Thông báo và thống kê](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/thong-bao-va-thong-ke.md)
   * [Sao lưu và đồng bộ](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/sao-luu-va-dong-bo.md)
