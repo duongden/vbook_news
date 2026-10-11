@@ -1,20 +1,27 @@
 # Giới thiệu
 
-
-
 > 💡 <mark style="color:$danger;">**Nếu bạn chưa đọc kĩ thì vui lòng đọc lại nhé!!!**</mark>
 
-#### ⬇️ Download
+#### ⬇️ Tải ứng dụng
 
-[**Android**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook_1.0.1.apk) **+** [**iOS App store**](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
+**Android — phiên bản 1.0.7**
 
-> Theo dõi và nhận thông báo cập nhật và file cài đặt tại kênh này: [**https://telegram.me/vbook\_beta\_up\_tracker\_chanhnh**](https://telegram.me/vbook_beta_up_tracker_chanhnh)
+* [**APK đa kiến trúc**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7.apk): chọn bản này nếu chưa biết kiến trúc thiết bị.
+* [**ARM64 (arm64-v8a)**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-arm64-v8a.apk): dành cho thiết bị Android dùng ARM 64-bit.
+* [**ARM 32-bit (armeabi-v7a)**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-armeabi-v7a.apk): dành cho thiết bị Android dùng ARM 32-bit.
+* [**x86**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-x86.apk) / [**x86\_64**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-x86_64.apk): dành cho thiết bị hoặc giả lập Android dùng kiến trúc x86 tương ứng.
 
-**Desktop: Bản này ad chưa code xong nên tính năng chưa đầy đủ, đừng thắc mắc sao không dùng được**&#x20;
+[iOS — tải trên App Store](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
 
-* [**Windows**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook-1.0.1.msi)
-* [**Mac**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vBook-1.0.1.dmg)
-* **Linux:** [**Deb**](https://bit.ly/3TtikGw) **+** [**rpm**](https://github.com/Darkrai9x/vbook-settings/releases/download/1.0.1/vbook-1.0.1.x86_64.rpm)
+**Desktop — phiên bản 1.0.7**
+
+* **Windows 64-bit:** [**Bản cài đặt (.msi)**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-win-x64.msi) hoặc [**Bản portable (.exe)**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-win-x64-portable.exe). Chọn MSI để cài đặt; chọn portable để chạy trực tiếp.
+* **macOS — Apple Silicon (ARM64):** [**Tải gói .dmg**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-mac-arm64.dmg). Release hiện chưa có gói riêng cho Mac Intel.
+* **Linux 64-bit (x86\_64/amd64):** [**Gói .deb**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-linux-amd64.deb) cho Debian/Ubuntu và các hệ dùng DEB; [**Gói .rpm**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-linux-x86_64.rpm) cho Fedora và các hệ dùng RPM.
+
+Android và Desktop hỗ trợ cập nhật trong ứng dụng. Khi cần tải lại hoặc xem thay đổi phiên bản, mở [Release Android](https://github.com/Darkrai9x/vbook-settings/releases/tag/android) hoặc [Release Desktop](https://github.com/Darkrai9x/vbook-settings/releases/tag/desktop), rồi chọn gói phù hợp trong **Assets**. Các tệp `.yml`, `.blockmap` và **Source code** không phải gói cài đặt.
+
+> Theo dõi thông báo cập nhật và file cài đặt tại [kênh Telegram vBook](https://telegram.me/vbook_beta_up_tracker_chanhnh).
 
 ***
 
