@@ -5,6 +5,15 @@
 ## Hướng dẫn nhanh cho người mới
 
 * [Làm quen với giao diện](huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md)
+* [Cài đặt và quản lý dữ liệu](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/README.md)
+  * [Cài đặt đọc truyệnC](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/cai-dat-doc-truyen.md)
+  * [Nguồn và tên miền](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/nguon-va-ten-mien.md)
+  * [Thông báo và thống kê](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/thong-bao-va-thong-ke.md)
+  * [Sao lưu và đồng bộ](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/sao-luu-va-dong-bo.md)
+  * [Thiết lập WebDAV trên Cloudflare](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/webdav-cloudflare.md)
+  * [Đọc kho sách Google Drive qua OPDS](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/doc-kho-sach-google-drive-qua-opds.md)
+  * [Chế độ nhà phát triển](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/che-do-nha-phat-trien.md)
+  * [Trợ lý AI](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/tro-ly-ai.md)
 
 ## TRUYỆN CHỮ
 
