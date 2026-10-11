@@ -2,7 +2,7 @@
 description: Version 1.0.2
 ---
 
-# Giao diện app
+# Làm quen với giao diện
 
 ## Video giới thiệu
 
@@ -51,13 +51,13 @@ Nhấn giữ truyện muốn sửa
 
 <figure><img src="../.gitbook/assets/cai-dat (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
-1. Cá nhân hóa: chỉnh sửa giao diện app [(Link)](ban-beta.md#cai-dat-doc-truyen)
+1. Cá nhân hóa: chỉnh sửa giao diện app [(Link)](lam-quen-voi-giao-dien.md#cai-dat-doc-truyen)
 2. Ngôn ngữ: chỉnh sửa ngôn ngữ app
-3. Đọc truyện: các cài đặt liên quan đến việc đọc truyện [(Link)](ban-beta.md#cai-dat-doc-truyen)
-4. Thông báo: nhận thông báo liên quan đến chat, truyện được cập nhật chương mới... [(Link)](ban-beta.md#thong-bao-va-thong-ke)
-5. Thống kê: thống kê thời gian đọc truyện và dung lượng bộ nhớ bị chiếm dụng [(Link)](ban-beta.md#thong-bao-va-thong-ke)
+3. Đọc truyện: các cài đặt liên quan đến việc đọc truyện [(Link)](lam-quen-voi-giao-dien.md#cai-dat-doc-truyen)
+4. Thông báo: nhận thông báo liên quan đến chat, truyện được cập nhật chương mới... [(Link)](lam-quen-voi-giao-dien.md#thong-bao-va-thong-ke)
+5. Thống kê: thống kê thời gian đọc truyện và dung lượng bộ nhớ bị chiếm dụng [(Link)](lam-quen-voi-giao-dien.md#thong-bao-va-thong-ke)
 6. Phần mở rộng: [Hướng dẫn](https://app.gitbook.com/s/wIrVteEIDLZ8Ul4z69Rr/nguon-mo-rong)
-7. Đồng bộ và Sao lưu [(Link)](ban-beta.md#sao-luu-va-dong-bo)
+7. Đồng bộ và Sao lưu [(Link)](lam-quen-voi-giao-dien.md#sao-luu-va-dong-bo)
 8. Trợ giúp
 9. Phản hồi
 10. Phiên bản app

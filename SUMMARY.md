@@ -2,9 +2,9 @@
 
 * [Giới thiệu](README.md)
 
-## GIAO DIỆN APP
+## Hướng dẫn nhanh cho người mới
 
-* [Giao diện app](giao-dien-app/ban-beta.md)
+* [Làm quen với giao diện](huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md)
 
 ## TRUYỆN CHỮ
 

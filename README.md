@@ -1,8 +1,15 @@
+---
+description: >-
+  Đọc sách điện tử, truyện tranh và tài liệu trong một thư viện gọn gàng - kèm
+  đọc thành tiếng, dịch ngoại tuyến, trình duyệt nguồn trực tuyến và cộng đồng
+  đọc sách. Hỗ trợ Android, iOS, Windows, macOS.
+---
+
 # Giới thiệu
 
 > 💡 <mark style="color:$danger;">**Nếu bạn chưa đọc kĩ thì vui lòng đọc lại nhé!!!**</mark>
 
-#### ⬇️ Tải ứng dụng
+#### ⬇️ Tải và cài đặt
 
 **Android — phiên bản 1.0.7**
 
@@ -19,15 +26,13 @@
 * **macOS — Apple Silicon (ARM64):** [**Tải gói .dmg**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-mac-arm64.dmg). Release hiện chưa có gói riêng cho Mac Intel.
 * **Linux 64-bit (x86\_64/amd64):** [**Gói .deb**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-linux-amd64.deb) cho Debian/Ubuntu và các hệ dùng DEB; [**Gói .rpm**](https://github.com/Darkrai9x/vbook-settings/releases/download/desktop/vbook-1.0.7-linux-x86_64.rpm) cho Fedora và các hệ dùng RPM.
 
-Android và Desktop hỗ trợ cập nhật trong ứng dụng. Khi cần tải lại hoặc xem thay đổi phiên bản, mở [Release Android](https://github.com/Darkrai9x/vbook-settings/releases/tag/android) hoặc [Release Desktop](https://github.com/Darkrai9x/vbook-settings/releases/tag/desktop), rồi chọn gói phù hợp trong **Assets**. Các tệp `.yml`, `.blockmap` và **Source code** không phải gói cài đặt.
-
 > Theo dõi thông báo cập nhật và file cài đặt tại [kênh Telegram vBook](https://telegram.me/vbook_beta_up_tracker_chanhnh).
 
 ***
 
 #### 🌐 Cộng đồng
 
-**Discord:** [https://discord.gg/aGXMkktXC](https://discord.gg/aGXMkktXC)
+**Discord:** [https://discord.gg/2n9auVjMk](https://discord.gg/2n9auVjMk)
 
 ***
 

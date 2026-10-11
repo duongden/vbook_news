@@ -11,6 +11,6 @@
 
 Đọc thêm
 
-[Cải đặt giao diện](../giao-dien-app/ban-beta.md#cai-dat-doc-truyen)
+[Cải đặt giao diện](../huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md#cai-dat-doc-truyen)
 
-[Cài đặt nguồn](../giao-dien-app/ban-beta.md#phan-mo-rong)
+[Cài đặt nguồn](../huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md#phan-mo-rong)

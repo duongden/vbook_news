@@ -2,7 +2,7 @@
 
 ## Hướng dẫn cài
 
-<a href="../giao-dien-app/ban-beta.md#phan-mo-rong" class="button primary">Tham khảo tại đây</a>
+<a href="../huong-dan-nhanh-cho-nguoi-moi/lam-quen-voi-giao-dien.md#phan-mo-rong" class="button primary">Tham khảo tại đây</a>
 
 ## Nguồn truyện
 
