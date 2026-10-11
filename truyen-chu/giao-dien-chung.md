@@ -52,3 +52,5 @@ description: Giao diện chung của phần truyện chữ
 
 
     <figure><img src="../.gitbook/assets/cai-dat-giao-dien-doc-truyen-2.png" alt="" width="362"><figcaption></figcaption></figure>
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwIrVteEIDLZ8Ul4z69Rr%2Fuploads%2FArd8SzWeEanYWnKccSfk%2FVideo_2026-10-11_141442.mp4?alt=media&token=bc2933d3-aa14-44aa-a843-63c76d9ef413" %}

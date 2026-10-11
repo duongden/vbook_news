@@ -15,15 +15,15 @@
   * [Chế độ nhà phát triển](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/che-do-nha-phat-trien.md)
   * [Trợ lý AI](huong-dan-nhanh-cho-nguoi-moi/cai-dat-va-quan-ly-du-lieu/tro-ly-ai.md)
 
-## TRUYỆN CHỮ
+## Truyện chữ
 
 * [Giao diện chung](truyen-chu/giao-dien-chung.md)
-* [Truyện Việt](truyen-chu/truyen-viet.md)
-* [Truyện dịch](truyen-chu/truyen-dich.md)
-* [Dịch từ file](truyen-chu/dich-tu-file.md)
-* [Rule mục lục của vbook](truyen-chu/rule-muc-luc-cua-vbook.md)
-* [Một số kiến thức khác](truyen-chu/mot-so-cai-dat-khac.md)
-* [Từ khóa tìm truyện](truyen-chu/tu-khoa-tim-truyen.md)
+* [Đọc truyện tiếng Việt](truyen-chu/truyen-viet.md)
+* [Đọc và dịch truyện tiếng Trung](truyen-chu/truyen-dich.md)
+* [Từ khóa tìm truyện tiếng Trung](truyen-chu/tu-khoa-tim-truyen-tieng-trung.md)
+* [Dịch truyện từ file](truyen-chu/dich-truyen-tu-file.md)
+* [Quy tắc tách chương khi nhập file](truyen-chu/quy-tac-tach-chuong-khi-nhap-file.md)
+* [Thêm truyện và quản lý nội dung](truyen-chu/mot-so-cai-dat-khac.md)
 
 ## PHIM ẢNH - ÂM NHẠC
 

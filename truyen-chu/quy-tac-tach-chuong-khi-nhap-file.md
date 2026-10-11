@@ -2,11 +2,7 @@
 description: Giới thiệu sơ về quy tắc chia mục lục khi nhập file vào vbook
 ---
 
-# Rule mục lục của vbook
-
-{% hint style="info" %}
-#### <mark style="color:$danger;">**Chỉ dành cho bản beta**</mark>
-{% endhint %}
+# Quy tắc tách chương khi nhập file
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
