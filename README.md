@@ -11,14 +11,8 @@ description: >-
 
 #### ⬇️ Tải và cài đặt
 
-**Android — phiên bản 1.0.7**
-
-* [**APK đa kiến trúc**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7.apk): chọn bản này nếu chưa biết kiến trúc thiết bị.
-* [**ARM64 (arm64-v8a)**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-arm64-v8a.apk): dành cho thiết bị Android dùng ARM 64-bit.
-* [**ARM 32-bit (armeabi-v7a)**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-armeabi-v7a.apk): dành cho thiết bị Android dùng ARM 32-bit.
-* [**x86**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-x86.apk) / [**x86\_64**](https://github.com/Darkrai9x/vbook-settings/releases/download/android/vBook_1.0.7-x86_64.apk): dành cho thiết bị hoặc giả lập Android dùng kiến trúc x86 tương ứng.
-
-[iOS — tải trên App Store](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
+* [**Android**](https://github.com/Darkrai9x/vbook-settings/releases/tag/android): chọn bản này nếu chưa biết kiến trúc thiết bị.
+* [iOS — tải trên App Store](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
 
 **Desktop — phiên bản 1.0.7**
 
