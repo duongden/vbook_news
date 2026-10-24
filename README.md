@@ -11,8 +11,8 @@ description: >-
 
 #### ⬇️ Tải và cài đặt
 
-* [**Android**](https://github.com/Darkrai9x/vbook-settings/releases/tag/android): chọn bản này nếu chưa biết kiến trúc thiết bị.
-* [iOS — tải trên App Store](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
+* [**Playstore**](https://play.google.com/store/apps/details?id=com.vbook.android)
+* [**App Store**](https://apps.apple.com/us/app/vbook-%C4%91%E1%BB%8Dc-truy%E1%BB%87n-s%C3%A1ch/id6808265499)
 
 **Desktop — phiên bản 1.0.7**
 
