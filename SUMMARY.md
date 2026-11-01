@@ -36,8 +36,8 @@
 ## NGUỒN MỞ RỘNG
 
 * [Hướng dẫn cài nguồn bản cũ](nguon-mo-rong/cai-nguon-ban-thuong.md)
-* [Hướng dẫn cài nguồn](nguon-mo-rong/cai-nguon-vbook.md)
 * [Danh sách nguồn](nguon-mo-rong/danh-sach-nguon.md)
+* [Hướng dẫn cài nguồn](nguon-mo-rong/cai-nguon-vbook.md)
 * [Tấn giang JJWXC](nguon-mo-rong/tan-giang-jjwxc.md)
 * [Cà chua](nguon-mo-rong/ca-chua.md)
 * [Legado](nguon-mo-rong/legado.md)

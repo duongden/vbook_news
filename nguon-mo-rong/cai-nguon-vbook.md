@@ -1,4 +1,4 @@
-# Cài nguồn bản beta
+# Hướng dẫn cài nguồn
 
 📲 Hướng dẫn thêm nguồn truyện
 
@@ -13,5 +13,3 @@
 * **︙ -> Phần mở rộng -> Nhập phần mở rộng**&#x20;
 
 <div><figure><img src="../.gitbook/assets/add-ext-zip.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/add-ext-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/loc-nguon-beta.png" alt=""><figcaption></figcaption></figure></div>
-
-**Cài nguồn tổng hợp theo ý mình:** [**Hướng dẫn**](danh-sach-nguon.md#huong-dan-tuy-chinh-nguon-extension-vbook)
