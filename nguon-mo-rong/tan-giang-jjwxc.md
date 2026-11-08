@@ -47,14 +47,14 @@ Thắc mắc, cần hỗ trợ thì bình luận nhé.
 
 1\. Đối với **vbook bản 1.1.56**: cần nhập 2 giá trị sau vào mã bổ sung
 
-* **Dành cho Android**
+* **Dành cho Android: các thông số bên dưới là dành cho những ai cài&#x20;**<mark style="color:$danger;">**app Tấn Giang trên Android**</mark>
 
 ```
 let token = 'sign=<chuỗi sign>'; 
 let jjwxcUserKey = 'user _key của bạn';
 ```
 
-* **Dành cho iOS**
+* **Dành cho iOS: các thông số bên dưới là dành cho những ai&#x20;**<mark style="color:$danger;">**cài app Tấn Giang trên iOS**</mark>
 
 ```
 let jjwxcIosToken = 'TOKEN_HOAC_SIGN_IOS';
