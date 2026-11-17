@@ -23,13 +23,6 @@ Tìm kiếm các danh sách nguồn và các ext tại đây:
 
 *  Bắt buộc dùng đúng trình duyệt để tạo kệ&#x20;
 *  Nhấn vào sửa ở kệ
-*  Thêm hoặc xóa các ext sau đó nhấn cập nhật.&#x20;  &#x20;5p sau nó sẽ cập nhật trên vbook.\
-  (nếu muốn nó cập nhật luôn thì ghi <mark style="color:red;">**"?chuoiSoBatKi"**</mark>)
-
->> Ví dụ:&#x20;
->
-> Link kệ vừa tạo ra: **https://www.vbookext.me/api/registry/vbook-0cc3c6af.json**> \
-> Nếu muốn nó cập nhật ngay lập tức thì nhập: **https://www.vbookext.me/api/registry/vbook-0cc3c6af.json**<mark style="color:red;">**?123**</mark>**&#x20;vào trong vbook**
 
 #### 3. Cách clone kệ của người khác để sửa
 
