@@ -3,8 +3,8 @@
 {% hint style="info" %}
 Hướng dẫn này chỉ áp dụng cho bạn đọc có tài khoản Tấn Giang và đã mua chương vip của truyện, cần đăng nhập để đọc chương đã mua trên Vbook\
 Bạn không cần đăng nhập trên web của Tấn Giang - jjwxc.net để sử dụng extension. Thay vào đó sẽ sử dụng đăng nhập trên app Tấn Giang - token. Nói đơn giản thì token = nick Tấn Giang của bạn.\
-**CHỈ CẦN LẤY 1 TOKEN/SIGN LÀ CÓ THỂ ĐỌC ĐƯỢC TRÊN NHIỀU THIẾT BỊ**\
-**Nếu bạn lấy token mới thì hiện tại sẽ die**
+<mark style="color:$danger;">**CHỈ CẦN LẤY 1 TOKEN/SIGN LÀ CÓ THỂ ĐỌC ĐƯỢC TRÊN NHIỀU THIẾT BỊ**</mark>\
+**Nếu bạn lấy token mới thì token hiện tại sẽ không dùng được nữa**
 
 Trường hợp nhiều người dùng thì chỉ cần chia sẻ token thôi, là có thể cùng nhau đọc.\
 <mark style="color:$danger;">**Chỉ chia sẻ token cho những người bạn tin tưởng, không chia sẻ token công khai.**</mark>\
